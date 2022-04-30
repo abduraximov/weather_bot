@@ -4,14 +4,6 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-
-
-
-# print(texts)
-# texts1 = html_par1.find("div", {"id": "bd2"}).text
-
-# print(type(texts))
-# print(texts1)
 def back():
     return [
         [
